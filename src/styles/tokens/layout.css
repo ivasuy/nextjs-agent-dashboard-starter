@@ -1,0 +1,12 @@
+:root {
+  --sidebar-width-expanded: 260px;
+  --sidebar-width-collapsed: 72px;
+  --header-height: 64px;
+  --content-max-width: 1440px;
+  --gap-page-sections: 24px;
+  --gap-card-grid: 20px;
+  --gap-card-inner: 16px;
+  --gap-form-fields: 16px;
+  --gap-inline-items: 12px;
+  --gap-tight: 8px;
+}

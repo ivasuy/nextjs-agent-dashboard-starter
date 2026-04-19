@@ -1,0 +1,46 @@
+:root {
+  /* Brand Primary */
+  --color-primary-50: #f0f4ff;
+  --color-primary-100: #dbe4ff;
+  --color-primary-200: #b5c9ff;
+  --color-primary-300: #8eadff;
+  --color-primary-400: #6891ff;
+  --color-primary-500: #4175ff;
+  --color-primary-600: #2c5ce6;
+  --color-primary-700: #1a44cc;
+
+  /* Neutral */
+  --color-neutral-50: #f9fafb;
+  --color-neutral-100: #f3f4f6;
+  --color-neutral-200: #e5e7eb;
+  --color-neutral-300: #d1d5db;
+  --color-neutral-400: #9ca3af;
+  --color-neutral-500: #6b7280;
+  --color-neutral-600: #4b5563;
+  --color-neutral-700: #374151;
+  --color-neutral-800: #1f2937;
+  --color-neutral-900: #111827;
+
+  /* Semantic */
+  --color-success: #16a34a;
+  --color-warning: #f59e0b;
+  --color-error: #dc2626;
+  --color-info: #2563eb;
+
+  /* Surface */
+  --surface-bg-primary: #ffffff;
+  --surface-bg-secondary: #f9fafb;
+  --surface-bg-sidebar: #f3f4f6;
+  --surface-bg-card: #ffffff;
+
+  /* Text */
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+  --text-muted: #9ca3af;
+  --text-inverse: #ffffff;
+
+  /* Border */
+  --border-default: #e5e7eb;
+  --border-hover: #d1d5db;
+  --border-focus: #4175ff;
+}
